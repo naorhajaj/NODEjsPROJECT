@@ -1,0 +1,10 @@
+{
+  "NODE_ENV": "production",
+  "PORT": 9191,
+  "TOKEN_GENERATOR": "jwt",
+  "DB_NAME": "naor7602",
+  "DB_PASSWORD": "naorhajaj880047",
+  "DB_HOST": "naordatabase.ikshczh.mongodb.net",
+  "LOGGER": "morgan",
+  "DB": "MONGODB"
+}
