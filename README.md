@@ -2,10 +2,10 @@
 
 ## Installation
 
-Enter the server folder
+clone this repository to your local machine
 
 ```bash
-cd server
+git clone https://github.com/naorhajaj/NODEjsPROJECT.git
 ```
 
 Install the node_modules
